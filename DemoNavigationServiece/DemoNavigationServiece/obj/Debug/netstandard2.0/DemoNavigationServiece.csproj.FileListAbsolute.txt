@@ -1,0 +1,18 @@
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\bin\Debug\netstandard2.0\DemoNavigationServiece.deps.json
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\bin\Debug\netstandard2.0\DemoNavigationServiece.dll
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\bin\Debug\netstandard2.0\DemoNavigationServiece.pdb
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.csproj.AssemblyReference.cache
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\Views\BasicNavigation.xaml.g.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\Views\Page Lifecycle.xaml.g.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\Views\PageLife.xaml.g.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.AssemblyInfoInputs.cache
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.AssemblyInfo.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.csproj.CoreCompileInputs.cache
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.dll
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\DemoNavigationServiece.pdb
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\Views\NavigationBase.xaml.g.cs
+D:\Demo\DemoNavigationServiece\DemoNavigationServiece\DemoNavigationServiece\obj\Debug\netstandard2.0\Views\PageA.xaml.g.cs
